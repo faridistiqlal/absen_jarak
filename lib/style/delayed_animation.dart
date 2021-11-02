@@ -19,7 +19,7 @@ class _DelayedAnimationState extends State<DelayedAnimation>
   @override
   void initState() {
     super.initState();
-
+//add
     _controller =
         AnimationController(value: this, duration: Duration(milliseconds: 800));
     final curve =
