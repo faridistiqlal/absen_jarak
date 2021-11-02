@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![alt text](https://drive.google.com/drive/u/1/folders/1QgWnjtiBXM9BdbfZr8OJl5sM82G_us7A)
+![image](https://drive.google.com/uc?export=view&id=1QiaU8icfbhIEg_ZFMPEH6PjFXYhMuB-j)
 
 A few resources to get you started if this is your first Flutter project:
 
