@@ -13,15 +13,16 @@ Projek "Absen Jarak" merupakan aplikasi presensi android dengan menggunakan gps 
 
 ## ✨ Features 
 
-- Menu admin dashboard.
-- Menambah dokter,jadwal dokter,layanan.
-- Auto generate QRCode user baru.
-- Riwayat periksa pasien.
-- Tambah pasangan, keluarga, anak
-- Rating dokter
-- Jadwal periksa hari ini
-- Kartu periksa digital
-- Edit akun dan data pasien
+- Get androidID, hanya bisa login 1 device.
+- Auto get location GPS
+- Get lat and long device
+- Konvert lat long menjadi alamat
+- Get jarak lokasi gps dan titik absen
+- Mengatur jika ingin absen di titik tertentu
+- Ambil gambar kamera depan ketika absen
+- laporan absen tiap bulan
+- Anti fake GPS
+
 
 ### 🔒 User Level 
 - Super Admin
@@ -30,20 +31,15 @@ Projek "Absen Jarak" merupakan aplikasi presensi android dengan menggunakan gps 
 ### 📋 Action Setiap User 
 User  | Aksi
 ------------- | -------------
-Super Admin | Mengelola backend database sistem
-Admin Klinik  | Menambah dan menghapus dokter
-Admin Klinik  | Menambah dan menghapus layanan praktek 
-Admin Klinik  | Menambah dan menghapus jadwal praktek
-Admin Klinik  | Menambah dan menghapus pasien
-User | Mendaftar klinik
-User | Mendapat kartu digital
-User | Membuat janji periksa
-User | Melihat histori periksa
-User | Melihat detail keluarga yang di daftarkan klinik
-User | Melihat daftar dokter
-User | Melihat daftar layanan
-User | Memberi rating dokter
-User | Mengedit informasi user
+Super Admin | Mengelola titik lokasi absen
+Super Admin | Mengelola lat long lokasi absen
+Super Admin | Mengelola media gambar absen
+Super Admin | Mengelola titik lokasi absen darurat
+User | Melihat lokasi device
+User | Melihat lokasi alamat
+User | Melihat lokasi titik absen
+User | Melihat alamat lokasi device
+User | Melihat laporan bulanan
 
 ## 🔗 Say Hello 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-istiqlal-1ab8a0138/)
