@@ -1,4 +1,4 @@
-# Absen Jarak 👨‍⚕️
+# Absen Jarak 🗺️
 
 Projek "Absen Jarak" merupakan aplikasi presensi android dengan menggunakan gps ponsel dan mengukurnya dengan jarak lokasi absen serta dapat mengambil gambar ketika melakukan absensi.
 
